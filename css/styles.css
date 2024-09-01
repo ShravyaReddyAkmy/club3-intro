@@ -73,6 +73,8 @@ body {
     margin-bottom: 4rem; /* Increased gap below CTA */
 }
 .cta a {
+    display: inline-block; /* Ensures that margin applies properly */
+    margin-top: 0.5rem; /* Adds a small gap (8px) between the <p> and <a> */
     text-decoration: none;
     color: #fff;
     background: #4f758f;

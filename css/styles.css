@@ -39,7 +39,7 @@ body {
     justify-content: center;
     gap: 2rem;
     flex-wrap: wrap;
-    margin-bottom: 1rem; /* Reduced gap between the team and the next section */
+    margin-bottom: 0.2rem; /* Reduced gap between the team and the next section */
 }
 .team-member {
     max-width: 200px;

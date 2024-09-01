@@ -37,9 +37,9 @@ body {
 .team {
     display: flex;
     justify-content: center;
-    gap: 2rem;
+    gap: 1rem;
     flex-wrap: wrap;
-    margin-bottom: 0.2rem; /* Reduced gap between the team and the next section */
+    margin-bottom: 0.1rem; /* Reduced gap between the team and the next section */
 }
 .team-member {
     max-width: 200px;

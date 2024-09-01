@@ -37,7 +37,7 @@ body {
 .team {
     display: flex;
     justify-content: center;
-    gap: 2.5rem;
+    gap: 3rem;
     flex-wrap: wrap;
     margin-bottom: 0.1rem; /* Reduced gap between the team and the next section */
 }

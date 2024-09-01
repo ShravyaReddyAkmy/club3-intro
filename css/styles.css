@@ -57,13 +57,13 @@ body {
 }
 .team-member a {
     display: inline-block;
-    margin-top: 0.5rem;
+    margin-top: 0.25rem;
     color: #0077b5; /* LinkedIn blue */
     text-decoration: none;
     font-size: 1.2rem;
 }
 .linkedin-icon {
-    font-size: 50px; /* Adjust the size as needed */
+    font-size: 45px; /* Adjust the size as needed */
 }
 .cta {
     padding: 2rem;

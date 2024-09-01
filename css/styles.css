@@ -46,7 +46,7 @@ body {
     text-align: center;
 }
 .team-member img {
-    width: 100%;
+    width: 80%;
     border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
